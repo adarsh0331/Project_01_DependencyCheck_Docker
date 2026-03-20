@@ -17,6 +17,7 @@ The pipeline automates:
 - Pushing the image to Docker Hub
 - Deployment to a Docker container
 
+
 ## Prerequisites
 
 - AWS EC2 instance with **t2.large** instance type
